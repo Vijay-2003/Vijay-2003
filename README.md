@@ -69,9 +69,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Vijay-2003&theme=high-contrast"/>
 
-<div style="display: flex; justify-content: center;">
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-</div>
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
