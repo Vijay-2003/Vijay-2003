@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Typescript**
 - 💬 Ask me about **Web development, C++, DSA, Aptitude**
 - 📫 How to reach me **vijay.kusekar2003@gmail.com**
-- 👨‍💻 All of my projects are available at **https://ts-portfolio-bay.vercel.app/**
+- 👨‍💻 All of my projects are available at **https://portfolio-93t6.vercel.app/**
 - 📄 Know about my experiences **https://drive.google.com/file/d/1ABzDASpu99_-Fk63Xn0KzPP48wM_jRGw/view**
 
 <div> <a href="https://www.linkedin.com/in/vijay-digambar-kusekar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
