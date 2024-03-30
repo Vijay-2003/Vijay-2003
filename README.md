@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vijay-2003&theme=dark_dimmed" alt="Vijay-2003" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript**
 - 💬 Ask me about **Web development, C++, DSA, Aptitude**
 - 📫 How to reach me **vijay.kusekar2003@gmail.com**
 - 👨‍💻 My Portfolio **https://portfolio-93t6.vercel.app/**
