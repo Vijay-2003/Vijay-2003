@@ -9,7 +9,7 @@
 - 📫 How to reach me **vijay.kusekar2003@gmail.com**
 - 👨‍💻 My Portfolio **https://portfolio-93t6.vercel.app/**
 - 👨‍💻 All of my projects are available at **https://github.com/Vijay-2003?tab=repositories**
-- 📄 Know about my experiences **https://drive.google.com/file/d/1ABzDASpu99_-Fk63Xn0KzPP48wM_jRGw/view**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1MNfGIq_kvQFcF1yPb54bhgakr1nQSkKG/view**
 
 <div> <a href="https://www.linkedin.com/in/vijay-digambar-kusekar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Vijay-2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
