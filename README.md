@@ -1,3 +1,4 @@
+<a href="https://leetcode.com/medal/?showImg=0&id=4778237&isLevel=false"></a>
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Vijay Kusekar</h1>
 <h3 align="center">Frontend Developer || Full Stack Developer || C++ Programmer</h3>
